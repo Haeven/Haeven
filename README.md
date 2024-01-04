@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Haeven and I like solving problems using code 😄
+### Hi there 👋
+
+My name is Haeven. I like solving problems using code 😄
 
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
