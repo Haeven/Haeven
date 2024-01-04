@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Haeven and I like to solve problems using code 😄
 
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Haeven's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haeven&theme=dark&hide_border=true)<br> </br>
 ![Haeven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeven&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
