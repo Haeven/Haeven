@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 My name is Haeven 😄
 I like solving problems using code.
