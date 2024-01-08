@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 -->
 ![Haeven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeven&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
