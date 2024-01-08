@@ -30,4 +30,4 @@ Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
 ---
 
-P.S. my git history doesn't show BitBucket commits made on those days
+p.s. my git history doesn't show BitBucket commits made on those days
