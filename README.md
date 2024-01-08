@@ -30,4 +30,4 @@ Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
 ---
 
-p.s. my git history doesn't show commits made for clients using Bitbucket (e.g. all of 2021)
+p.s. my git history doesn't show commits made for clients using Bitbucket (e.g. half of 2020 & entirety of 2021 solely Bitbucket)
