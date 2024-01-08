@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
-# Author info
+# Socials
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haeven)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Haeven)
