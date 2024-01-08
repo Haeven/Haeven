@@ -20,3 +20,20 @@ Here are some ideas to get you started:
 ![Haeven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeven&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
+
+# Author info
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haeven)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Haeven)
+[![Twitter](https://img.shields.io/badge/hvndevs-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hvndevs)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haevendevs@gmail.com)
+
+
+# License
+
+Copyright © 2023 [Haeven Dickerson](https://github.com/Haeven).<br />
+This project is [MIT](https://github.com/Haeven/msteams-winston/blob/main/LICENSE) licensed.
+
+---
+
+<div align = "center"><img src="https://madewithlove.now.sh/in?heart=true&colorA=%23505050&colorB=%235032b4&template=for-the-badge&text=Illinois" alt="Made with love in Illinois"></div>
