@@ -30,4 +30,4 @@ Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
 ---
 
-ps my git history doesn't show BitBucket commits on days of no commit
+p.s. my git history won't show commits for clients using Bitbucket
