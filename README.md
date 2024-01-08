@@ -29,3 +29,5 @@ Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haevendevs@gmail.com)
 
 ---
+
+P.S. My git history doesn't show BitBucket commits made during periods of no git commits shown.
