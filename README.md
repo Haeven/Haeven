@@ -1,6 +1,4 @@
-### 👋
-
-My name is Haeven 😄
+Hi 👋 My name is Haeven 😄
 and I like solving problems with code.
 
 <!--
