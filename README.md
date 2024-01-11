@@ -27,6 +27,4 @@ Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
 ---
 
-p.s. my git history doesn't show commits made for clients using solely Bitbucket (e.g. half of 2020, entirety of 2021)
-
 ![Haeven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeven&theme=dark&show_icons=true&hide_border=true&layout=compact)
