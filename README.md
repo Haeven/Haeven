@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
+---
+
+![Haeven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeven&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 # Socials
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haeven)
@@ -25,6 +29,3 @@ Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 [![Twitter](https://img.shields.io/badge/hvndevs-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hvndevs)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haevendevs@gmail.com)
 
----
-
-![Haeven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeven&theme=dark&show_icons=true&hide_border=true&layout=compact)
