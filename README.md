@@ -1,5 +1,4 @@
-👋 My name is Haeven 😄
-and I like solving problems with code.
+👋 My name is Haeven
 
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
