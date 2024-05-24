@@ -19,8 +19,6 @@ Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
 ---
 
-![Haeven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeven&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 # Socials
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haeven)
