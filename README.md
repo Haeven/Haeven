@@ -1,5 +1,5 @@
 Welcome to my GitHub page 👋 
-<br>
+<br><br>
 Check out the projects I'm most proud of:
 
 [Koinonia](https://github.com/Haeven/Koinonia)
