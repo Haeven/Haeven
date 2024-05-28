@@ -2,8 +2,8 @@ Welcome to my GitHub page 👋
 <br><br>
 Check out the projects I'm most proud of:
 
-[Koinonia](https://github.com/Haeven/Koinonia)
-[React Library](https://github.com/Haeven/rares-ui-library)
+[Koinonia](https://github.com/Haeven/Koinonia) | 
+[React Library](https://github.com/Haeven/rares-ui-library) | 
 [Vue.js Library](https://github.com/Haeven/vuetiful-js)
 
 <!--
