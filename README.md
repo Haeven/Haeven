@@ -1,4 +1,10 @@
 Welcome to my GitHub page 👋 
+<br>
+Check out the projects I'm most proud of:
+
+https://github.com/Haeven/rares-ui-library
+https://github.com/Haeven/vuetiful-js
+https://github.com/Haeven/Koinonia
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
