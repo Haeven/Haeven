@@ -21,9 +21,8 @@ Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
 # Socials
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haeven)
+[![GitHub](https://img.shields.io/badge/portfolio-%23121011.svg?style=for-the-badge&logoColor=white)](https://haeven.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Haeven)
-[![Twitter](https://img.shields.io/badge/portfolio-%510230.svg?style=for-the-badge&logoColor=white)](https://twitter.com/hvndevs)
 [![Instagram](https://img.shields.io/badge/Instagram-%19353132.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://twitter.com/hvndevs)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hvndevs)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haevendevs@gmail.com)
