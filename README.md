@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
 # Socials
 
 [![GitHub](https://img.shields.io/badge/%20portfolio-%23121011.svg?style=for-the-badge&logoColor=white)](https://haeven.dev)
