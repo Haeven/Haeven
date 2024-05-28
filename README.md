@@ -1,5 +1,5 @@
 👋 My name is Haeven
-
+Let's chat!
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Follow me on 𝕏 👉 [@hvndevs](https://twitter.com/hvndevs)
 
 ---
 
