@@ -2,8 +2,8 @@ Welcome to my GitHub page 👋
 <br>
 Check out the projects I'm most proud of:
 
-[React UI Library](https://github.com/Haeven/rares-ui-library)
-[Vue UI Library](https://github.com/Haeven/vuetiful-js)
+[React.js Library](https://github.com/Haeven/rares-ui-library)
+[Vue.js Library](https://github.com/Haeven/vuetiful-js)
 [Koinonia](https://github.com/Haeven/Koinonia)
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
