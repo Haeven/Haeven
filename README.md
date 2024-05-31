@@ -7,10 +7,10 @@ Check out the projects I'm most proud of
 [Vue.js Library](https://github.com/Haeven/vuetiful-js)
 
 🔭 I’m currently working on building:
-- Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals (React/Next, Golang, GraphQL, Supabase VectorDB)
-- Trutube - Faith-based streaming platform with unique business model paying users for ads watched (React/Next)
-- Koinonia - Bible study/notes app with unique features (Flutter/Dart)
-- Todo Schedule Planner - Per no sufficient free offerings on either app stores (React Native)
+- Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
+- Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
+- Koinonia - Bible study/notes app with unique features *Flutter, Dart*
+- Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
