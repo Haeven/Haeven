@@ -6,11 +6,11 @@ Check out the projects I'm most proud of
 [React Library](https://github.com/Haeven/rares-ui-library) | 
 [Vue.js Library](https://github.com/Haeven/vuetiful-js)
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently working on...
-&ensp;- Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
-&ensp;- Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
-&ensp;- Koinonia - Bible study/notes app with unique features *Flutter, Dart, C++*
-&ensp;- Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently working on...<br>
+- &ensp; Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
+- &ensp; Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
+- &ensp; Koinonia - Bible study/notes app with unique features *Flutter, Dart, C++*
+- &ensp; Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
   
 ### A little more about me...  
 &emsp; 🛹 I love skateboarding<br>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Socials
+### Socials
 
 [![GitHub](https://img.shields.io/badge/%20portfolio-%23121011.svg?style=for-the-badge&logoColor=white)](https://haeven.dev)
 [![Instagram](https://img.shields.io/badge/%20Instagram-C13584.svg?labelColor=C13584&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/haeven.kd)
