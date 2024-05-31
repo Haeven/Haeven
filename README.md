@@ -6,6 +6,11 @@ Check out the projects I'm most proud of
 [React Library](https://github.com/Haeven/rares-ui-library) | 
 [Vue.js Library](https://github.com/Haeven/vuetiful-js)
 
+🔭 I’m currently working on building:
+- Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals
+- Trutube - Faith-based streaming platform with unique business model paying users for ads watched
+- Koinonia - Bible study/notes app with unique features
+- To-do Free Schedule Planner App (no sufficient free offerings on either app stores)
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
