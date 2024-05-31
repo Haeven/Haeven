@@ -6,11 +6,11 @@ Check out the projects I'm most proud of
 [React Library](https://github.com/Haeven/rares-ui-library) | 
 [Vue.js Library](https://github.com/Haeven/vuetiful-js)
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently working on building:
-- Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
-- Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
-- Koinonia - Bible study/notes app with unique features *Flutter, Dart, C++*
-- Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently working on...
+&ensp;- Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
+&ensp;- Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
+&ensp;- Koinonia - Bible study/notes app with unique features *Flutter, Dart, C++*
+&ensp;- Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
   
 ### A little more about me...  
 &emsp; 🛹 I love skateboarding<br>
