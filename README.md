@@ -6,7 +6,7 @@ Check out the projects I'm most proud of
 [React Library](https://github.com/Haeven/rares-ui-library) | 
 [Vue.js Library](https://github.com/Haeven/vuetiful-js)
 
-🔭 I’m currently working on building:
+### 🔭 I’m currently working on building:
 - Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
 - Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
 - Koinonia - Bible study/notes app with unique features *Flutter, Dart, C++*
@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/%20Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hvndevs)
 [![LinkedIn](https://img.shields.io/badge/%20linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Haeven)
 [![Gmail](https://img.shields.io/badge/%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haevendevs@gmail.com)
-<br>
+<br><br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so don't be afraid to reach out even just to say hi</b> :)</em>
