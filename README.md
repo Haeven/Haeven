@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so don't be afraid to reach out even just to say hi</b> :)</em>
+
 # Socials
 
 [![GitHub](https://img.shields.io/badge/%20portfolio-%23121011.svg?style=for-the-badge&logoColor=white)](https://haeven.dev)
