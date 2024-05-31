@@ -13,7 +13,7 @@ Check out the projects I'm most proud of
 - Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-💻 - Coding since I was 11
+💻 - Coding since 11 yrs (Java minecraft plugins)<br>
 🛹 - I love skateboarding<br>
 🎾 - I enjoy playing Tennis (with my wife)<br>
 🤓 - Bible nerd<br>
