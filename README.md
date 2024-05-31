@@ -11,6 +11,11 @@ Check out the projects I'm most proud of
 - Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
 - Koinonia - Bible study/notes app with unique features *Flutter, Dart, C++*
 - Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+🛹 I love skateboarding<br>
+🎾 I enjoy playing Tennis (with my wife)<br>
+🤓 Bible nerd<br>
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
