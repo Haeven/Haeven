@@ -1,4 +1,4 @@
-Welcome to my GitHub page 👋 
+Welcome to my GitHub 👋 
 <br><br>
 Check out the projects I'm most proud of
 
