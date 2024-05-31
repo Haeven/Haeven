@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Socials
+## Socials
 
 [![GitHub](https://img.shields.io/badge/%20portfolio-%23121011.svg?style=for-the-badge&logoColor=white)](https://haeven.dev)
 [![Instagram](https://img.shields.io/badge/%20Instagram-C13584.svg?labelColor=C13584&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/haeven.kd)
