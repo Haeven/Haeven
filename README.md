@@ -17,7 +17,6 @@ Check out the projects I'm most proud of
 &ensp; 💻&ensp; Coding since 11 yrs (Java minecraft plugins)<br>
 &ensp; 🏋️&ensp; Enjoy hitting the gym with my wife<br>
 &ensp; 🎾&ensp; Enjoy playing Tennis (with my wife)<br>
-&ensp; 🤓&ensp; Bible nerd<br>
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
