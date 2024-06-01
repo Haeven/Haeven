@@ -14,7 +14,7 @@ Check out the projects I'm most proud of
   
 ### A little more about me...  
 &ensp; 🛹&ensp; I love skateboarding<br>
-&ensp; 💻&ensp; Coding since 11 yrs (Java minecraft plugins)<br>
+&ensp; 💻&ensp; Coding since 11 yrs (Minecraft plugins in Java)<br>
 &ensp; 🏋️&ensp; Enjoy hitting the gym with my wife<br>
 &ensp; 🎾&ensp; Enjoy playing Tennis (with my wife)<br>
 <!--
