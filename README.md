@@ -4,7 +4,7 @@ Check out the projects I'm most proud of
 
 [React Library](https://github.com/Haeven/rares-ui-library) | 
 [Koinonia](https://github.com/Haeven/Koinonia) | 
-[Vue.js Library](https://github.com/Haeven/vuetiful-js)
+[Vue 2 Library](https://github.com/Haeven/vuetiful-js)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">&ensp;I’m currently working on...<br>
 -  Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
