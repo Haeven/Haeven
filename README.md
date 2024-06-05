@@ -5,7 +5,7 @@ Check out the projects I'm most proud of
 [Vue 2 Library](https://github.com/Haeven/vuetiful-js)
 
 ## I’m currently building...<br>
--  Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
+-  SubHire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
 -  Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
 -  Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
   
