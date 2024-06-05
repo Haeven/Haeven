@@ -8,9 +8,8 @@ Check out the projects I'm most proud of
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">&ensp;I’m currently working on...<br>
 -  Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
--  Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
--  Koinonia - Bible study/notes app with unique features *Flutter, Dart, C++*
 -  Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
+-  Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
   
 ### A little more about me...  
 &ensp; 🛹&ensp; I love skateboarding<br>
