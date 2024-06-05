@@ -1,12 +1,10 @@
-Welcome to my page 👋 
-<br><br>
 Check out the projects I'm most proud of
 
 [React Library](https://github.com/Haeven/rares-ui-library) | 
 [Koinonia](https://github.com/Haeven/Koinonia) | 
 [Vue 2 Library](https://github.com/Haeven/vuetiful-js)
 
-## I’m currently working on building...<br>
+## I’m currently building...<br>
 -  Subhire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
 -  Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
 -  Trutube - Faith-based streaming platform with unique business model paying users for ads watched *React, Next*
