@@ -7,7 +7,7 @@ Check out the projects I'm most proud of
 ## I’m currently building...<br>
 -  SubHire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
 -  Todo Schedule Planner - Per no sufficient free offerings on either app stores *React Native*
--  Trutube - Streaming platform with unique business model paying users for enabling ads watched *React, Next*
+-  Trutube - Streaming platform that pays users for enabling ads watched *React, Next*
   
 ### A little more about me...  
 &ensp; 🛹&ensp; I love skateboarding<br>
