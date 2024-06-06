@@ -1,8 +1,9 @@
 Check out the projects I'm most proud of
 
 [React Library](https://github.com/Haeven/rares-ui-library) | 
-[Koinonia](https://github.com/Haeven/Koinonia) | 
-[Vue 2 Library](https://github.com/Haeven/vuetiful-js)
+[Tetris](https://github.com/Haeven/wasm-port-tetris) | 
+[Vue 2 Library](https://github.com/Haeven/vuetiful-js) |
+[Koinonia](https://github.com/Haeven/Koinonia)
 
 ## I’m currently building...<br>
 -  SubHire - Helping clients leverage AI to find + manage contracts with verified tech professionals *React, Next, Golang, GraphQL*
