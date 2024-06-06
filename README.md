@@ -6,9 +6,9 @@ Check out the projects I'm most proud of
 [Koinonia](https://github.com/Haeven/Koinonia)
 
 ## I’m currently building...<br>
--  SubHire; Tech contract/contractor verification, discovery, and HR management (payroll, compliance) *React, Next, Golang, GraphQL*
--  Trutube; Streaming platform that pays users for ads enabled/watched *React, Next*
--  Todo Free Schedule Planner; Per no sufficient similiar free offerings on either app store *React Native*
+-  SubHire - Tech contract/contractor verification, discovery, and HR management (payroll, compliance) *React, Next, Golang, GraphQL*
+-  Trutube — Streaming platform that pays users for ads enabled/watched *React, Next*
+-  Todo Free Schedule Planner - Per no sufficient similiar free offerings on either app store *React Native*
   
 ### A little more about me...  
 &ensp; 🛹&ensp; I like skateboarding<br>
