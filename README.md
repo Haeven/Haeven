@@ -11,7 +11,7 @@ Check out the projects I'm most proud of
 -  Todo Free Schedule Planner — Per no sufficient similiar free offerings on either app store *React Native*
   
 ### A little more about me...  
-&ensp; 💻&ensp; Loved coding since 11 (building Minecraft mods in Java)<br>
+&ensp; 💻&ensp; Loved coding since 11 (used to build Java Minecraft mods)<br>
 &ensp; 🛹&ensp; I like skateboarding<br>
 &ensp; 🎾&ensp; Enjoy playing Tennis<br>
 <!--
