@@ -11,8 +11,8 @@ Check out the projects I'm most proud of
 -  Todo Free Schedule Planner — Per no sufficient similiar free offerings on either app store *React Native*
   
 ### A little more about me...  
-&ensp; 🛹&ensp; I like skateboarding<br>
 &ensp; 💻&ensp; Loved coding since 11 (building Minecraft mods in Java)<br>
+&ensp; 🛹&ensp; I like skateboarding<br>
 &ensp; 🎾&ensp; Enjoy playing Tennis<br>
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
