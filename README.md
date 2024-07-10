@@ -6,13 +6,13 @@ Check out the projects I'm most proud of
 
 ## I’m currently building...<br>
 -  SubHire — Tech contract/contractor verification, discovery, and HR management (payroll, compliance) *React, Next, Golang, GraphQL*
--  Trutube — Streaming platform that pays users for ads enabled/watched *React, Next*
--  Todo Free Schedule Planner — Per no sufficient similiar free offerings on either app store *React Native*
+-  Trutube — Streaming platform that pays users for ads enabled/watched *React Native*
   
 ### A little more about me...  
 &ensp; 💻&ensp; Loved coding since 11 (used to build Java Minecraft mods)<br>
 &ensp; 🛹&ensp; I like skateboarding<br>
-&ensp; 🎾&ensp; Enjoy playing Tennis<br>
+&ensp; 🏋️&ensp; I enjoy Gym-dates<br>
+&ensp; 🎾&ensp; I enjoy playing Tennis<br>
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
