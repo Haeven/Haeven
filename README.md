@@ -1,7 +1,6 @@
 Check out the projects I'm most proud of
 
 [React Library](https://github.com/Haeven/rares-ui-library) | 
-[Tetris](https://github.com/Haeven/wasm-port-tetris) | 
 [Vue 2 Library](https://github.com/Haeven/vuetiful-js)
 
 ## I’m currently building...<br>
