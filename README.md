@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/%20linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Haeven)
 [![Gmail](https://img.shields.io/badge/%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haevenshane@gmail.com)
 <br><br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so don't be afraid to reach out just say hi</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Don't be afraid to reach out just say hi</b> :)</em>
