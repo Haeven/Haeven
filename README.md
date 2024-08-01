@@ -5,7 +5,7 @@ Check out the projects I'm most proud of
 
 ## I’m currently building...<br>
 -  SubHire — Tech contract/contractor verification, discovery, and HR management (payroll, compliance) *React, Next, Golang, GraphQL*
--  Trutube — Streaming platform that pays users for ads enabled/watched *React Native*
+-  Trutube — Streaming platform that pays users for ads enabled/watched *React Native*, *Go*, *Kubernetes*, *WASM*
   
 ### A little more about me...  
 &ensp; 💻&ensp; Love coding since 11 (started building Minecraft mods in Java)<br>
