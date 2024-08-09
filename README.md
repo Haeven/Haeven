@@ -9,9 +9,9 @@ Check out the projects I'm most proud of
   
 ### A little more about me...  
 &ensp; 💻&ensp; Love coding since 11 (started building Minecraft mods in Java)<br>
-&ensp; 🛹&ensp; Skateboarding<br>
 &ensp; 🏋️&ensp; Gym-dates with wifey<br>
 &ensp; 🎾&ensp; Playing Tennis<br>
+&ensp; 🛹&ensp; Skateboarding<br>
 <!--
 **Haeven/Haeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
